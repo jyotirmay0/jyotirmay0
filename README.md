@@ -2,7 +2,7 @@
 
 <h3 align="center">Android Developer | Building Scalable Software | AI/ML Enthusiast 🚀</h3>
 
-<img src="assets/banner.gif" width="100%" />
+<img src="assets/Anim.gif" width="100%" />
 
 ---
 
