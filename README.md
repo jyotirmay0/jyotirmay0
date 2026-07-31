@@ -1,4 +1,4 @@
-<h1 align="center">Hey  I'm Jyotirmay Bairagya</h1>
+<h1 align="center">Hey,  I'm Jyotirmay Bairagya</h1>
 
 <h3 align="center">Software Engineer | Android Developer | Shipping Real Products 🚀</h3>
 
@@ -20,15 +20,15 @@
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp" height="40"/>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,tensorflow,pytorch" height="40"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,materialui,firebase,tensorflow,ktor" height="40"/>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gradle,git,github,vscode,docker,figma" height="40"/>
 </p>
 
 </div>
