@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="assets/banner.gif" height="30px" width="30px"> I'm Jyotirmay Bairagya</h1>
 
-<h3 align="center">Android Developer | Building Scalable Software | AI/ML Enthusiast 🚀</h3>
+<h3 align="center">Android Developer | Kotlin & Jetpack Compose | Shipping Real Products 🚀</h3>
 
 <img src="assets/Anim.gif" width="100%" />
 
@@ -8,37 +8,30 @@
 
 ## 👋 About Me
 
-
-- 📱 **Android Developer** — designing apps with scalability and clean architecture in mind
-- 🧠 Building a RAG-based Android app for querying PDFs and notes with on-device & cloud AI
-
+- 📱 Android developer who cares about **clean architecture, scalability, and shipping products people actually use**
+- 🧩 Deep into **Kotlin, Jetpack Compose**, and the modern Android toolchain
+- 🧠 Currently building **LearnEase AI** — upload a document, ask questions, get answers via RAG powered by on-device AI
+- 🎯 Focused on turning ideas into finished, usable products — not just demos
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,,java," height="40"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java" height="40"/>
 </p>
 
-### **Android & AI Development**
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,tensorflow,pytorch" height="40"/>
 </p>
 
-
-
-### **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" height="40"/>
 </p>
 
 </div>
-
-<br>
 
 ---
 
@@ -48,13 +41,11 @@
 
 | Project | Description |
 |---|---|
+| 🧠 **[LearnEase AI](https://github.com/jyotirmay0/LearnEase-AI)** | Upload a document, ask questions, get RAG-powered answers — combines on-device AI with retrieval |
 | 🛍️ **[Zeniba](https://github.com/jyotirmay0/Zeniba)** | Fashion e-commerce Android app — Kotlin, Jetpack Compose, Node.js backend |
-| 🎵 **[Musicify](https://github.com/jyotirmay0/Musicify)** | Music streaming app built with Jetpack Compose, clean dark theme UI |
-| 📱 **RAG Pipeline App** | Android app for querying PDFs and notes using on-device and cloud AI (Gemini + LiteRT-LM) |
+| 🎵 **[Musicify](https://github.com/jyotirmay0/Musicify)** | Music streaming app — Jetpack Compose, clean dark theme UI |
 
 </div>
-
-<br>
 
 ---
 
@@ -67,37 +58,16 @@
 </picture>
 </div>
 
-<br>
-
 ---
 
 ## 📊 GitHub Analytics
 
 
 
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jyotirmay0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=350">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotirmay0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=818CF8&point=C9D1D9&area=true&radius=12&height=350" width="98%" alt="Contribution Graph" />
-</picture>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyotirmay0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmay0&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8" width="70%" />
 </div>
-
-<br>
 
 ---
 
@@ -114,14 +84,11 @@
 </p>
 </div>
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,14,30&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+
 
 <div align="center">
 
-**Thanks for visiting! Let's build something amazing together**
+**Thanks for stopping by — let's build something real.**
 
 <img src="https://komarev.com/ghpvc/?username=jyotirmay0&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
 
