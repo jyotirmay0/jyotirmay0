@@ -1,6 +1,6 @@
-<h1 align="center">Hey <img src="assets/banner.gif" height="30px" width="30px"> I'm Jyotirmay Bairagya</h1>
+<h1 align="center">Hey  I'm Jyotirmay Bairagya</h1>
 
-<h3 align="center">Android Developer | Kotlin & Jetpack Compose | Shipping Real Products 🚀</h3>
+<h3 align="center">Software Engineer | Android Developer | Shipping Real Products 🚀</h3>
 
 <img src="assets/Anim.gif" width="100%" />
 
